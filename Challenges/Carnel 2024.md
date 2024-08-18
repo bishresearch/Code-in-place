@@ -1,4 +1,4 @@
-<img align="left" src="Images/2024_Karel.png" height="520">
+<img align="left" src="images/2024_Karel.png" height="520">
 
 ```python
 from karel.stanfordkarel import *
